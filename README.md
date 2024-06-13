@@ -1,0 +1,2 @@
+# blog-perjalanan
+perjalanan random
